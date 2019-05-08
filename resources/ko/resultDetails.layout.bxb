@@ -1,0 +1,19 @@
+layout-macro-def(resultDetails) {
+  params {
+    param (resultsForView) { // view 안의 param들의 이름
+      type (Results) // 결과 값일테니 당연히 타입은 Results 구조체
+      min (Required) max (One)
+    }
+  }
+
+  content {
+    section {  // this macro returns a "section"
+      content {
+        paragraph {
+          value ("두 가지 숫자를 #{value(resultsForView.operatorName)}한 결과값은 #{value(resultsForView.result)}입니다.")
+          style (Detail_M)
+        }
+      }
+    }
+  }
+}
