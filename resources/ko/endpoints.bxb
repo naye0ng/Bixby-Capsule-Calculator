@@ -1,0 +1,10 @@
+// models와 JS를 연결한다.
+endpoints {
+  action-endpoints {
+    action-endpoint (PlusOperation) {
+      // action/PlusOperation.model.bxb에서 정의한 input데이터 이름
+      accepted-inputs (leftOperand, rightOperand)
+      local-endpoint (plusOperation.js)
+    }
+  }
+}
