@@ -1,0 +1,13 @@
+structure (Results) {
+  description (연산의 결과값)
+  property (operatorName) {
+    type (OperatorName)
+    min (Required) max (One)
+  }
+  property (result){
+    type(Result)
+    min(Required) max (One)
+  }
+}
+// Results는 연산의 결과(Result형의 데이터)와 연산자(OperatorName 형) 모두를 가지는 구조체 자료형이라고 생각하면 된다. 
+// Results형태가 이 캡슐의 최종 결과물이라고 가정한다면 아마도 '${operatorName}연산의 결과 값은${result}입니다.'와 같은 형태가 될 것이다.

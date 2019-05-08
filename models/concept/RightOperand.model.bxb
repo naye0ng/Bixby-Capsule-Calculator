@@ -1,0 +1,3 @@
+integer (RightOperand) {
+  description (우측 피연산자)
+}
