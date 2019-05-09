@@ -1,7 +1,6 @@
 # Bixby Calculator Capsule
-간단한 Bixby 사칙연산 캡슐입니다.
-
-[bixbydevelopers 참고](https://github.com/bixbydevelopers/capsule-sample-arithmetic-KR) 
+[bixbydevelopers](https://github.com/bixbydevelopers/capsule-sample-arithmetic-KR)를 참고한 간단한 Bixby 사칙연산 캡슐입니다. 
+enum 자료형과 vocabulary를 통한 동의어 처리를 학습할 수 있습니다.
 
 <br>
 
