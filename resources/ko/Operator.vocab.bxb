@@ -1,0 +1,24 @@
+// 도의어에 대한 어휘 파일 
+// https://bixbydevelopers.com/dev/docs/dev-guide/developers/training.vocabulary
+vocab(Operator){
+  "plus"{
+    "더해줘"
+    "더하기"
+    "플러스"
+    "합"
+  }
+  "subtract"{
+    "빼줘"
+    "빼기"
+  }
+  "multiplication"{
+    "곱하기"
+    "곱해줘"
+  }
+  "division"{
+    "나누기"
+    "나누어줘"
+    "나눠줘"
+    "나눈"
+  }
+}
