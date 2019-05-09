@@ -1,9 +1,9 @@
 # Bixby Calculator Capsule
-두 개의 피연산자와 연산자를 받아서 연산을 수행하는 간단한 Bixby 사칙연산 캡슐입니다.
+간단한 Bixby 사칙연산 캡슐입니다.
 
 [bixbydevelopers 참고](https://github.com/bixbydevelopers/capsule-sample-arithmetic-KR) 
 
-
+<br>
 
 ### Bixby enum / vocabulary
 
