@@ -1,0 +1,8 @@
+// resources/Operator.vocab.bxb에 각각의 자료형에 넣을 발화를 지정할 수 있다.
+enum (Operator) {
+  description (연산자로 들어올 수 있는 모든 경우의 문자열 자료형)
+  symbol (plus)
+  symbol (subtract)
+  symbol (multiplication)
+  symbol (division)
+}
