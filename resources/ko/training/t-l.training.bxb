@@ -1,0 +1,5 @@
+train (t-lbn3r55xk1hxuoj07vn2csqkg) {
+  utterance ("[g:Results] (3)[v:LeftOperand] (나누기)[v:Operator:division] (2)[v:RightOperand]는 뭐야")
+  plan (Y2BlkErOT0k1MjDQS07MSS7NSSzJL9ILSi0uzSkpZpDFIucMZzLIYZH2SU0r8S9ILUrMS2GQxiIPlgNplsdmb2Z6Blw3CwMjAxMDM5BmALIgEAZAYlA5AA==)
+  last-modified (1557365589672)
+}

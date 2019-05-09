@@ -1,0 +1,5 @@
+train (t-7ab1ewwqvtznawapb60x2q919) {
+  utterance ("[g:Results] (2)[v:LeftOperand] (곱하기)[v:Operator:multiplication] (3)[v:RightOperand]은 뭐야?")
+  plan (Y2BlkErOT0k1MjDQS07MSS7NSSzJL9ILSi0uzSkpZpDFIucMZzLIYZH2SU0r8S9ILUrMS2GQxiIPlgNplsdmb2Z6Blw3CwMjAxMDM5BmALIgEAZAYlA5AA==)
+  last-modified (1557365514037)
+}

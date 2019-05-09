@@ -6,7 +6,9 @@ capsule {
     target (bixby-mobile-en-US)
     target (bixby-mobile-ko-KR)
   }
-  // runtime-flags {
-  //   support-halt-effect-in-computed-inputs
-  // }
+  runtime-flags {
+    support-halt-effect-in-computed-inputs
+    modern-prompt-rejection
+    concepts-inherit-super-type-features
+  }
 }
